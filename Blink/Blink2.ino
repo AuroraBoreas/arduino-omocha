@@ -14,7 +14,9 @@ void loop()
 {
     // do stuff;
     int rate = analogRead(sensorPin);
+    // new function: map()
     rate = map(rate, 200, 800, minDuration, maxDuration);
+    // new function: constrain()
     rate = constrain(rate, minDuration, maxDuration);
     digitalWrite(ledPin, HIGH);
     delay(rate);
