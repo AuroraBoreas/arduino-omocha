@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "Blink\\Blink0.ino"
+    "sketch": "chapter-02-LetProgramWorkForYou\\primitive_types.ino"
 }
