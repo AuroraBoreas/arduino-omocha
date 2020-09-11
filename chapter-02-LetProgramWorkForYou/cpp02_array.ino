@@ -5,12 +5,10 @@ void setup()
 {
     for (int i = 0; i < 4; i++)
     {
-        /* code */
         pinMode(inputPins[i], INPUT);
         pinMode(ledPins[i], OUTPUT);
         digitalWrite(inputPins[i], true);
     }
-    
 }
 
 void loop()
