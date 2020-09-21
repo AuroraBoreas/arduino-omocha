@@ -5,6 +5,7 @@ split comma-delimiter text
 String text = "Peter, Paul, Mary";
 String message = text;
 const String comma = ",";
+const int commaNotFound = -1;
 int commaPosition;
 
 void setup()
@@ -17,7 +18,7 @@ void setup()
         commaPosition = message.indexOf(comma);
         Serial.print("comma position: ");
         Serial.println(commaPosition);
-        if (commaPosition != -1)
+        if (commaPosition != commaNotFound)
         {
             Serial.println(message.substring(0, commaPosition));
             message = message.substring(commaPosition+1, message.length());
