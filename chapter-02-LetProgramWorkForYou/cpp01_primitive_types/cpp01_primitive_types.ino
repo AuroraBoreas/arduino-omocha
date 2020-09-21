@@ -27,7 +27,7 @@ Table: types in arduino(C/C++)
 
 */
 
-float value = 0.7;
+float value = 1.1;
 
 void setup()
 {
