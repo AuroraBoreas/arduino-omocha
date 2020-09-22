@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-02-LetProgramWorkForYou\\cpp09_codeBlockBlink3\\cpp09_codeBlockBlink3.ino",
+    "sketch": "chapter-02-LetProgramWorkForYou\\cpp10_swap\\cpp10_swap.ino",
     "port": "COM3"
 }
