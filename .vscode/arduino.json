@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-01-Intro\\Blink0\\Blink0.ino",
+    "sketch": "chapter-02-LetProgramWorkForYou\\cpp05_splitstring\\cpp05_splitstring.ino",
     "port": "COM3"
 }
