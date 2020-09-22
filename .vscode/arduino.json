@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-02-LetProgramWorkForYou\\cpp10_swap\\cpp10_swap.ino",
+    "sketch": "chapter-02-LetProgramWorkForYou\\cpp14_dowhile\\cpp14_dowhile.ino",
     "port": "COM3"
 }
