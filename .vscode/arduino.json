@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-03-arithmetics\\cpp05_bitwiseShift\\cpp05_bitwiseShift.ino",
+    "sketch": "chapter-03-arithmetics\\cpp06_highByte_lowByte\\cpp06_highByte_lowByte.ino",
     "port": "COM3"
 }
