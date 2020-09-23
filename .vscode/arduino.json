@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-03-arithmetics\\cpp02_trigonometrics\\cpp02_trigonometrics.ino",
+    "sketch": "chapter-03-arithmetics\\cpp03_random\\cpp03_random.ino",
     "port": "COM3"
 }
