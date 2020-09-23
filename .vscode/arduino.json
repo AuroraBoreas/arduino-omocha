@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-02-LetProgramWorkForYou\\cpp15_forloop\\cpp15_forloop.ino",
+    "sketch": "chapter-02-LetProgramWorkForYou\\cpp16_logicExpression\\cpp16_logicExpression.ino",
     "port": "COM3"
 }

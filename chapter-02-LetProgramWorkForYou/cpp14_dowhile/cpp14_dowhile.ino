@@ -18,7 +18,7 @@ void loop()
     {
         blink();
         Serial.print('.');
-        Serial.print(analogRead(sensorPin));
+        Serial.println(analogRead(sensorPin));
     } while (analogRead(sensorPin) > 100);
 }
 
