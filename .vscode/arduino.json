@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-02-LetProgramWorkForYou\\cpp16_logicExpression\\cpp16_logicExpression.ino",
+    "sketch": "chapter-02-LetProgramWorkForYou\\cpp19_bitwise\\cpp19_bitwise.ino",
     "port": "COM3"
 }
