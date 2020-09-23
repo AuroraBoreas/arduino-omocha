@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-02-LetProgramWorkForYou\\cpp19_bitwise\\cpp19_bitwise.ino",
+    "sketch": "chapter-03-arithmetics\\cpp02_trigonometrics\\cpp02_trigonometrics.ino",
     "port": "COM3"
 }
