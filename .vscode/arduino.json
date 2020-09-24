@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-03-arithmetics\\cpp06_highByte_lowByte\\cpp06_highByte_lowByte.ino",
+    "sketch": "chapter-03-arithmetics\\cpp07_lowByteHighByteComb\\cpp07_lowByteHighByteComb.ino",
     "port": "COM3"
 }
