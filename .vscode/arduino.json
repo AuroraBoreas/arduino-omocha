@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "AVR ISP",
-    "sketch": "chapter-04-Serial\\cpp03_SerialReceive03\\cpp03_SerialReceive03.ino",
+    "sketch": "chapter-04-Serial\\cpp04_serialParseint\\cpp04_serialParseint.ino",
     "port": "COM3"
 }
